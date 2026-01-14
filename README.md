@@ -8,7 +8,7 @@ I bridge the gap between complex backend logic and intuitive UI, specializing in
 - 💼 Freelancing on **Custom CRM & Inventory Solutions**
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6584?logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6584?logo=n8n&logoColor=white)
 
 ### 🌟 Featured Projects
 | Project | Stack | Description |
@@ -21,4 +21,4 @@ I bridge the gap between complex backend logic and intuitive UI, specializing in
 | **[Nomad Travel App](#)** | Android, SQLite | Offline-first travel planner with AI integration. |
 | **[Fuel Management](#)** | React, TypeScript | B2B inventory & shift management system. |
 
-[🌐 Visit My Portfolio]([YOUR_PORTFOLIO_LINK_HERE](https://rahul-portfolio-production.up.railway.app/)) | [Connect on LinkedIn](YOUR_LINKEDIN_LINK_HERE)
+[🌐 Visit My Portfolio](https://rahul-portfolio-production.up.railway.app/) | [Connect on LinkedIn](YOUR_LINKEDIN_LINK_HERE)
