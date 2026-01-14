@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Arambepola! 👋
 
-🚀 **Full Stack Developer | AI Enthusiast**
+🚀 **Full Stack Developer | AI Enthusiast**<br/>
 I bridge the gap between complex backend logic and intuitive UI, specializing in AI-integrated applications.
 
 - 🔭 I’m currently working on **AI Agents & RAG Systems**
