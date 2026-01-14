@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Rahul Arambepola! 👋
 
-<!--
-**rahulkavishka/rahulkavishka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | AI Enthusiast**
+I bridge the gap between complex backend logic and intuitive UI, specializing in AI-integrated applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **AI Agents & RAG Systems**
+- 🎓 I’m a 2nd-year CS Undergraduate at **SLIIT City Uni**
+- 💼 Freelancing on **Custom CRM & Inventory Solutions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6584?logo=n8n&logoColor=white)
+
+### 🌟 Featured Projects
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[ApexDrive CRM](#)** | Django, React, EasyOCR | Automotive CRM with AI number plate recognition. |
+| **[AskMyPDF](#)** | Llama3, FastAPI, RAG | Document assistant for context-aware Q&A on PDFs. |
+| **[SLIIT Go](#)** | Flutter, Firebase | Real-time university shuttle tracking app. |
+| **[Research Bot](#)** | n8n, OpenAI | Autonomous agent for deep web research. |
+| **[Gesture Control](#)** | YOLOv8, OpenCV | Hand gesture control system for Spotify playback. |
+| **[Nomad Travel App](#)** | Android, SQLite | Offline-first travel planner with AI integration. |
+| **[Fuel Management](#)** | React, TypeScript | B2B inventory & shift management system. |
+
+[🌐 Visit My Portfolio]([YOUR_PORTFOLIO_LINK_HERE](https://rahul-portfolio-production.up.railway.app/)) | [Connect on LinkedIn](YOUR_LINKEDIN_LINK_HERE)
