@@ -16,7 +16,7 @@ I bridge the gap between complex backend logic and intuitive UI, specializing in
 | **[ApexDrive CRM](https://github.com/rahulkavishka/ApexDrive.git)** | Django, React, EasyOCR | Automotive CRM with AI number plate recognition. |
 | **[AskMyPDF](https://github.com/rahulkavishka/AskMyPDF.git)** | Llama3, FastAPI, RAG | Document assistant for context-aware Q&A on PDFs. |
 | **[SLIIT Go](#)** | Flutter, Firebase | Real-time university shuttle tracking app. |
-| **[Research Bot](#)** | n8n, OpenAI | Autonomous agent for deep web research. |
+| **[Research Bot](https://github.com/rahulkavishka/Research-Bot.git)** | n8n, OpenAI | Autonomous agent for deep web research. |
 | **[Gesture Control](https://github.com/rahulkavishka/Gesture-Control.git)** | YOLOv8, OpenCV | Hand gesture control system for Spotify playback. |
 | **[Nomad Travel App](#)** | Android, SQLite | Offline-first travel planner with AI integration. |
 | **[Fuel Management](#)** | React, TypeScript | B2B inventory & shift management system. |
