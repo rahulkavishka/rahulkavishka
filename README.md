@@ -19,6 +19,6 @@ I bridge the gap between complex backend logic and intuitive UI, specializing in
 | **[Research Bot](https://github.com/rahulkavishka/Research-Bot.git)** | n8n, OpenAI | Autonomous agent for deep web research. |
 | **[Gesture Control](https://github.com/rahulkavishka/Gesture-Control.git)** | YOLOv8, OpenCV | Hand gesture control system for Spotify playback. |
 | **[Nomad Travel App](#)** | Android, SQLite | Offline-first travel planner with AI integration. |
-| **[Fuel Management](#)** | React, TypeScript | B2B inventory & shift management system. |
+| **[Fuel Management](https://github.com/rahulkavishka/Fuel-Management-System.git)** | React, TypeScript | B2B inventory & shift management system. |
 
 [🌐 Visit My Portfolio](https://rahul-portfolio-production.up.railway.app/) | [Connect on LinkedIn](YOUR_LINKEDIN_LINK_HERE)
