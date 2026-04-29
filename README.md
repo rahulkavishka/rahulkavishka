@@ -3,9 +3,9 @@
 🚀 **Full Stack Developer | AI Enthusiast**<br/>
 I bridge the gap between complex backend logic and intuitive UI, specializing in AI-integrated applications.
 
-- 🔭 I’m currently working on **AI Agents & RAG Systems**
+- 🔭 I’m currently working on **AI Automations & CRM, ERP Systems**
 - 🎓 I’m a 2nd-year CS Undergraduate at **SLIIT City Uni**
-- 💼 Freelancing on **Custom CRM & Inventory Solutions**
+- 💼 Freelancing on **Custom CRM, Automations & Web Applications**
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6584?logo=n8n&logoColor=white)
