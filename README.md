@@ -21,4 +21,4 @@ I bridge the gap between complex backend logic and intuitive UI, specializing in
 | **[Nomad Travel App](#)** | Android, SQLite | Offline-first travel planner with AI integration. |
 | **[Fuel Management](https://github.com/rahulkavishka/Fuel-Management-System.git)** | React, TypeScript | B2B inventory & shift management system. |
 
-[🌐 Visit My Portfolio](https://rahul-portfolio-production.up.railway.app/) | [Connect on LinkedIn](https://www.linkedin.com/in/rahul-arambepola/)
+[🌐 Visit My Portfolio](https://portfolio.rahularambepola.dev/) | [Connect on LinkedIn](https://www.linkedin.com/in/rahul-arambepola/)
